@@ -1,4 +1,4 @@
-Hi there 👋 I am Lahiru Senevirathne, a Software Engineer from Sri Lanka
+Hi there 👋 I am Lahiru Senevirathne, a Software developer from Sri Lanka
 🌱 I’m currently diving deep into Machine Learning and exploring new technologies.
 
 💬 Feel free to ask me about web development, full-stack projects, and cloud deployment.
