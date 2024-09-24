@@ -8,7 +8,7 @@
 
 ⚡ Hobbies: Listening to music, watching movies & TV series, and coding.
 
-🤔 Want to know more about me? Check out my [LinkedIn Profile](https://www.linkedin.com/in/lahiru-warna-senevirathne-46a0b52b2).
+🤔 Want to know more about me? Check out my [LinkedIn Profile](https://www.linkedin.com/in/lahirusenevirathne/).
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Warna97.Warna97)
 
