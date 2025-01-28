@@ -1,46 +1,68 @@
-# Hi there 👋 I am Lahiru Senevirathne, a Software developer from Sri Lanka
+# Hi there 👋 I'm Lahiru Senevirathne
 
-🌱 I’m currently diving deep into Machine Learning and exploring new technologies.
+### Software Developer | Machine Learning Enthusiast | Full-Stack Explorer
 
-💬 Feel free to ask me about web development, full-stack projects, and cloud deployment.
+🌍 **From:** Sri Lanka  
+📧 **Reach me:** [Lahiruwarna97@gmail.com](mailto:Lahiruwarna97@gmail.com)  
+💼 **LinkedIn:** [Lahiru Senevirathne](https://www.linkedin.com/in/lahirusenevirathne/)  
+🐱 **GitHub:** [Warna97](https://github.com/Warna97)  
 
-📫 How to reach me: Lahiruwarna97@gmail.com
+---
 
-⚡ Hobbies: Listening to music, watching movies & TV series, and coding.
+## 🚀 About Me
 
-🤔 Want to know more about me? Check out my [LinkedIn Profile](https://www.linkedin.com/in/lahirusenevirathne/).
+I'm a passionate software developer with a love for building scalable web applications and exploring the fascinating world of **Machine Learning**. I enjoy working on **full-stack projects** and deploying them on the cloud. When I'm not coding, you'll find me listening to music, binge-watching movies & TV series, or tinkering with new technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌐 Find Me Around the Web
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahirusenevirathne/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Warna97)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lahiruwarna97@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Lahiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Warna97&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Warna97&layout=compact&theme=radical)
+
+---
+
+## 😂 Random Dev Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
+---
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Warna97.Warna97)
-
-## 🧰 Languages and Tools
-
-### Programming Languages
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-
-### Frameworks and Libraries
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot)
-
-### Other Tools and Technologies
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-## 🔍 Find Me Around the Web
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/Warna97)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/lahiru-warna-senevirathne-46a0b52b2)
-
-## 😂 A Random Joke to Brighten Your Day
-![Jokes Card](https://readme-jokes.vercel.app/api)
