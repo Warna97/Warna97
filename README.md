@@ -1,67 +1,122 @@
-# Hi there 👋 I'm Lahiru Senevirathne
+<div align="center">
 
-### Software Developer | Machine Learning Enthusiast | Full-Stack Explorer
+<!-- Animated Typing Header -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Lahiru+Senevirathne;Full-Stack+Developer+|+Angular+|+React+|+Flutter+|+Node.js+|+NestJS+|+Laravel" />
+</h1>
 
-🌍 **From:** Sri Lanka  
-📧 **Reach me:** [Lahiruwarna97@gmail.com](mailto:Lahiruwarna97@gmail.com)  
-💼 **LinkedIn:** [Lahiru Senevirathne](https://www.linkedin.com/in/lahirusenevirathne/)  
-🐱 **GitHub:** [Warna97](https://github.com/Warna97)  
+🌍 Sri Lanka | 📧 [Lahiruwarna97@gmail.com](mailto:Lahiruwarna97@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/lahirusenevirathne/) | 🐱 [GitHub](https://github.com/Warna97)
 
----
-
-## 🚀 About Me
-
-I'm a passionate software developer with a love for building scalable web applications and exploring the fascinating world of **Machine Learning**. I enjoy working on **full-stack projects** and deploying them on the cloud. When I'm not coding, you'll find me listening to music, binge-watching movies & TV series, or tinkering with new technologies.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💫 About Me
 
-### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+I'm a **full-stack developer** who loves building **modern web & mobile apps** with **Angular, React, Next.js, Flutter, Node.js, NestJS, Laravel**.  
+I enjoy exploring **Machine Learning**, creating **polished UIs**, and experimenting with new technologies.
+</div>
 
 ---
 
-## 🌐 Find Me Around the Web
+## ⚡ My Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahirusenevirathne/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Warna97)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lahiruwarna97@gmail.com)
+<div align="center">
+
+### Frontend & Mobile
+<div align="left">
+- Angular & Angular Material ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- React & Next.js ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- Flutter ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+</div>
+
+### Backend & APIs
+<div align="left">
+- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- NestJS ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+- Laravel ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- Express.js ![Express](https://img.shields.io/badge/-Express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+</div>
+
+### Databases & Cloud
+<div align="left">
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- Firebase ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+- Docker ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+</div>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Skill Bars (Neon Gradient)
 
-![Lahiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Warna97&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Warna97&layout=compact&theme=radical)
+**Angular**  
+<img src="https://progress-bar.dev/90/?title=Angular&suffix=%25&color=DD0031&style=flat" />
+
+**React / Next.js**  
+<img src="https://progress-bar.dev/85/?title=React%2FNext.js&suffix=%25&color=61DAFB&style=flat" />
+
+**Flutter**  
+<img src="https://progress-bar.dev/80/?title=Flutter&suffix=%25&color=02569B&style=flat" />
+
+**Node.js / NestJS**  
+<img src="https://progress-bar.dev/85/?title=Node.js%2FNestJS&suffix=%25&color=43853D&style=flat" />
+
+**Laravel**  
+<img src="https://progress-bar.dev/75/?title=Laravel&suffix=%25&color=FF2D20&style=flat" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Warna97&show_icons=true&theme=dracula" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warna97&layout=compact&theme=dracula" width="48%">
+</div>
+
+---
+
+## 🎯 Fun Facts
+
+<div align="center">
+- 🎵 Music lover & series binger  
+- 🤖 Exploring Machine Learning & AI side projects  
+- 💡 Always experimenting with new technologies
+</div>
 
 ---
 
 ## 😂 Random Dev Joke
 
+<div align="center">
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/lahirusenevirathne/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Warna97" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:Lahiruwarna97@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
 
 ---
 
