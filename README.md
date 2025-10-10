@@ -46,12 +46,7 @@ I love exploring **Machine Learning**, experimenting with new technologies, and 
 
 ---
 
-## 📈 GitHub Stats
 
-![Lahiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Warna97&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Warna97&layout=compact&theme=radical)
-
----
 
 ## 🎯 Fun Facts
 
